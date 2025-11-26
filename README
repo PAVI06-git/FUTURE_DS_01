@@ -1,0 +1,27 @@
+# E-commerce Sales Analysis — Task 1
+
+**Objective:** Analyze e-commerce data to identify best-selling products, sales trends, and high-revenue categories.  
+**Skills demonstrated:** Data cleaning, aggregation, trend analysis, business storytelling.
+
+## Files
+- `Ecommerce_Dataset.xlsx` — Raw data (50 sample orders)
+- `Ecommerce_Dashboard.xlsx` — Dashboard workbook with visuals and summary tables
+- `screenshots/top6_products.png` — Top products chart
+- `screenshots/revenue_by_category.png` — Revenue by category chart
+- `screenshots/monthly_sales_trend.png` — Monthly sales trend
+
+## How to view
+1. Open `Ecommerce_Dashboard.xlsx` in Microsoft Excel.
+2. Navigate to the **Dashboard** sheet to see charts and key tables.
+3. Or preview the images in the `screenshots` folder.
+
+## Key Insights (sample — modify after review)
+1. **Top products:** Wireless Earbuds and Bluetooth Speaker are top revenue contributors.
+2. **High-revenue categories:** Electronics contributes the largest revenue share.
+3. **Sales trend:** Monthly sales show variability with clear peaks; good periods for targeted promotions.
+
+## Recommendations
+- Increase inventory for top-selling products.
+- Plan marketing campaigns around high-sales months.
+- Focus ad spend on top categories for higher ROI.
+
